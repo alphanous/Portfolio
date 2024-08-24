@@ -4,7 +4,7 @@ import { Extratext } from './Extratext';
 import { IoMdDownload } from "react-icons/io";
 import Nav from './Nav';
 import img1 from '../images/f3.jpg'
-import pdflink from '../images/Rajyavardhan_rathore4.pdf'
+import pdflink from '../images/Rajyavardhan_Resume.pdf'
 import Footer from './Footer';
 const Home = () => {
     function handledelay(event) {

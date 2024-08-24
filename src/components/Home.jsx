@@ -65,7 +65,7 @@ const Home = () => {
                     <h1>About Me</h1>
                     <p>
                         Hi, my name is <b>Rajyavardhan Rathore</b> and I am from Jodhpur, Rajasthan.
-                        I'm currently a final year college student at IIIT Bhagalpur pursuing <b>BTech in Computer Science and Engineering having cgpa of 7.96</b>. <br /><br />
+                        I'm a recent graduate from IIIT Bhagalpur in the department of <b> Computer Science and Engineering having cgpa of 8.05</b>. <br /><br />
                         My technical skills include programming in C, C++, data structures, and algorithms. I am also familiar with web development using the MERN stack.
                         Using my web development skills, I have worked on projects like online ticket booking web application and ecommerce web application.
                         but my strength lies in core subjects like oops, os, dbms software, and computer networks. <br /><br />
